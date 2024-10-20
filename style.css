@@ -1,0 +1,21 @@
+.bg{
+    background-color: indianred;
+}
+
+.bg-product{
+    background-color: whitesmoke;
+}
+
+.bg-testi {
+    background-color: lavenderblush;
+}
+
+.img-testi {
+    width: 100%;
+    max-width: 300px; 
+    height: auto;
+}
+
+.testi {
+    text-align: justify;
+}
